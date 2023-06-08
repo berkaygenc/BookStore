@@ -21,6 +21,7 @@ namespace WebApi.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
+        // Controller Sınıfı
         private readonly BookStoreDbContext _context;
         private readonly IMapper _mapper;
         public BookController(BookStoreDbContext context,IMapper mapper)

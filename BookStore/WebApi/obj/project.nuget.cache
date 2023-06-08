@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztqnS9I95sXaB3NY9abKSEfkQ3FNKB1CW87N9IyBIYu7d7z/5QWQvQHa9732I0qxKp9wEv1adwwsgEOkjhaVog==",
+  "dgSpecHash": "s75Hg6/FoyhH8wwQNCnjttMD4zbNL3kqTBDjJZGNH7AKpjJ4T9mpDASk+YNMiCSu3hSOlyHFFpNJ2nr3JR+pgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilkay\\source\\repos\\.netcorePratics\\BookStore\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\ilkay\\Source\\Repos\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilkay\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ilkay\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

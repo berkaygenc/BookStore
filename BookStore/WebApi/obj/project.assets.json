@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilkay\\source\\repos\\.netcorePratics\\BookStore\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ilkay\\Source\\Repos\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\ilkay\\source\\repos\\.netcorePratics\\BookStore\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\ilkay\\Source\\Repos\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\ilkay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilkay\\source\\repos\\.netcorePratics\\BookStore\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\ilkay\\Source\\Repos\\BookStore\\BookStore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilkay\\AppData\\Roaming\\NuGet\\NuGet.Config",
